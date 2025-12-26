@@ -2,8 +2,6 @@
 
 Online job portals are widely used for recruitment, but they are increasingly affected by fraudulent job postings. These fake postings are created to mislead job seekers, collect personal information, or conduct financial scams. Due to the large number of job listings and limited manual verification, identifying fraudulent postings has become a significant challenge.
 
-.
-
 🎯 Project Objective
 
 The objective of this project is to perform Exploratory Data Analysis (EDA) to identify patterns and characteristics that distinguish real and fraudulent job postings. By analyzing factors such as employment type, telecommuting status, required education, experience, industry, and job function, the project aims to generate meaningful insights and recommendations that can help job platforms reduce fraud.
