@@ -14,12 +14,18 @@ Each record in the dataset represents a single job posting and includes detailed
 
 🔹 Key Characteristics of the Dataset
 Nature of Data: Real-world, noisy, and unbalanced
+
 Total Records: Several thousand job postings
+
 Data Types: Categorical (employment type, industry, job function)
 Binary (telecommuting, fraudulent)
+
 Text-based (job title, location)
+
 Target Variable: fraudulent
+
 0 → Real job posting
+
 1 → Fraudulent job posting
 
 🧹 Data Cleaning Performed
