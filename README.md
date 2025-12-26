@@ -74,9 +74,13 @@ size
 🔍 Key Insights From EDA
 
 Fraud postings tend to have shorter job descriptions and minimal requirements.
+
 Fake postings usually do not include company logos.
+
 Fraud rate is higher in remote / telecommuting jobs.
+
 Text-length features show clear separation between real and fake posts.
+
 Many fraud indicators appear together → multivariate patterns are stron.
 
 
@@ -84,18 +88,29 @@ Many fraud indicators appear together → multivariate patterns are stron.
 🧠 Recommendations for Job Portals
 
 Flag postings missing:
+
 Company logo
+
 Company profile
+
 Proper job description
+
 Add stronger verification for remote jobs.
+
 Encourage employers to fill complete information fields.
+
 
 🛠 Tools & Libraries Used
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
 
 📄 Report
