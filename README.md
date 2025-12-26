@@ -4,10 +4,21 @@ This project explores the Fraudulent Job Posting Detection dataset using detaile
 The focus is on data cleaning, feature engineering, and insights from visualizations.
 
 
+.
+
 📊 Dataset Description
-Contains job postings collected from various online platforms.
-Includes company details, job descriptions, salary, telecommuting info, etc.
-Target Column: fraudulent
+
+The dataset used in this project is a real-world collection of online job postings gathered from various employment platforms. It contains both legitimate and fraudulent job advertisements, making it suitable for analyzing patterns associated with job posting fraud.
+
+Each record in the dataset represents a single job posting and includes detailed information related to the job role, company, location, and required qualifications. The dataset is highly heterogeneous, consisting of categorical, textual, and binary features, which makes it ideal for Exploratory Data Analysis.
+
+🔹 Key Characteristics of the Dataset
+Nature of Data: Real-world, noisy, and unbalanced
+Total Records: Several thousand job postings
+Data Types: Categorical (employment type, industry, job function)
+Binary (telecommuting, fraudulent)
+Text-based (job title, location)
+Target Variable: fraudulent
 0 → Real job posting
 1 → Fraudulent job posting
 
